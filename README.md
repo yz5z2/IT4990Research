@@ -1,9 +1,14 @@
-## Set Up The Environment for Python
+## Musser Reaserch
+
+### The goal of this project is to help the new users to getting basic knowleage of how to use Python to analysis CSV datasets. It will show you how to set up the Python environment. This project is mainly focus on how to use pandas in Python. 
+
+* Set Up
+
+* Start
+
+* My Labs
 
 
 
-* Open [Anaconda.](https://www.anaconda.com/products/individual) and download the Version of Anaconda that fits your computer system. 
-* Launch the Jupyter Notebook in Anaconda.
-* Click the New on the up right corner, and create an new python 3.
 
 
