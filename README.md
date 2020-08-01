@@ -1,6 +1,6 @@
-## How to use Python doing Data Analysis
+## Set Up The Environment for Python
 
-### First Things To Do
 
-·· * Download [Anaconda.](https://www.anaconda.com/products/individual)
+
+··* Open [Anaconda.](https://www.anaconda.com/products/individual) and download the Version of Anaconda that fits your computer system. 
 
