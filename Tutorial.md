@@ -37,6 +37,7 @@
     8. Which team have most players?
     9. How many teams in NBA?
     10. How many players for each position?
+* If you finish or have any problem, you can check with the answer I provide in [Example File](Example_File/
     
         
      
