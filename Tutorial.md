@@ -11,3 +11,10 @@
     - You can find the datasets in [Source](Source.md).
     - Or you can find the datasets you like.
 4. About Pandas https://pandas.pydata.org/about/
+
+## Learning About Pandas
+* There are many ways or learning Pandas.
+    * Youtube Videos Tutorial About Pandas.
+        - https://www.youtube.com/watch?v=vmEHCJofslg
+        - https://pandas.pydata.org/docs/user_guide/index.html#user-guide
+    - 
