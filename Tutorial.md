@@ -23,5 +23,8 @@
         - https://www.datacamp.com/community/tutorials/pandas-tutorial-dataframe-python
         - http://www.gregreda.com/2013/10/26/intro-to-pandas-data-structures/
         - https://www.dataquest.io/blog/pandas-python-tutorial/
+## Try yourself
+* Try your self of doing data analysis on Pandas. 
+    - Download the csv file in [NBA](Example_File/nba.csv)
         
      
