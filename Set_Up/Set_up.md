@@ -5,3 +5,7 @@
 3. Open Anaconda and Launch Jupyer Notebook.
 4. Click the New on the up right corner and create an new Python 3 project. 
 5. Start coding. 
+
+## SET UP PYTHON ENVIRONMENT ON WINDOWS
+
+* https://www.youtube.com/watch?v=YO6QgvgOz6U
