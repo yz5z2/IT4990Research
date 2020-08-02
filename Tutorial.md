@@ -24,7 +24,19 @@
         - http://www.gregreda.com/2013/10/26/intro-to-pandas-data-structures/
         - https://www.dataquest.io/blog/pandas-python-tutorial/
 ## Try yourself
-* Try your self of doing data analysis on Pandas. 
-    - Download the csv file in [NBA](Example_File/nba.csv)
+### Try your self of doing data analysis on Pandas. 
+* Download the csv file in [NBA](Example_File/nba.csv)
+* Try to answer following questions use pandas. 
+    1. How many players in NBA?
+    2. How many players have age less than 30?
+    3. How many player in Boston Celtics?
+    4. How many player in Boston Celtics are younger than 25?
+    5. Show the three players with largest Number.
+    6. Show the three Oldest players in NBA.
+    7. Who have the highest salary in NBA?
+    8. Which team have most players?
+    9. How many teams in NBA?
+    10. How many players for each position?
+    
         
      
