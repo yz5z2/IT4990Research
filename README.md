@@ -5,7 +5,7 @@
 1. Set Up
 * [Set Up tutorial](Set_Up/Set_up.md)
 
-2. Start
+2. Tutorial
 
 3. Example
 * [Example File](Example_File/Research_Filter.ipynb)
