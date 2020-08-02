@@ -27,6 +27,7 @@
 ## Try yourself
 ### Try your self of doing data analysis on Pandas. 
 * Download the csv file in [NBA](Example_File/nba.csv)
+* Import this file, and analysis it in Pandas.
 * Try to answer following questions use pandas. 
     1. How many players in NBA?
     2. How many players have age less than 30?
