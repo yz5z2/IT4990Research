@@ -24,8 +24,8 @@
         - https://www.datacamp.com/community/tutorials/pandas-tutorial-dataframe-python
         - http://www.gregreda.com/2013/10/26/intro-to-pandas-data-structures/
         - https://www.dataquest.io/blog/pandas-python-tutorial/
-## Try yourself
-### Try your self of doing data analysis on Pandas. 
+## Analysis Data
+### Try yourself of doing data analysis on Pandas. 
 * Download the csv file in [NBA](Example_File/nba.csv)
 * Import this file, and analysis it in Pandas.
 * Try to answer following questions use pandas. 
@@ -40,6 +40,10 @@
     9. How many teams in NBA?
     10. How many players for each position?
 * If you have any problem, you can check with the answer provide in [Example File](Example_File/Research_Filter.ipynb)
+
+## Try yourself
+* You can try to analysis other datasets.
+* Find Datasets [HERE](Source.md).
 
 ### Hope You Enjoy Learning Pandas and Data Analysis.
     
