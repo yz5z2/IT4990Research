@@ -1,4 +1,5 @@
-# Prepareation before learning Pandas on Python.
+# Use Pandas Analysis Data
+
 ## Getting Started
 
 1. Set Up the Python Environemnt on your computer. 
