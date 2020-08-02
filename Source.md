@@ -1,6 +1,6 @@
 ## Some Websites that provide datasets to public.
 * Kaggle 
-⋅⋅⋅ https://www.kaggle.com/datasets
+https://www.kaggle.com/datasets
 
 * soccer 
 https://data.world/datasets/soccer
