@@ -7,7 +7,7 @@
 
 2. Start
 
-3. My Labs
+3. Example
 * [Example File](Example_File/Research_Filter.ipynb)
 
 4. Dataset.
