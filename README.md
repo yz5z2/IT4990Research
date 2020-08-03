@@ -6,6 +6,7 @@
 * [Set Up tutorial](Set_Up/Set_up.md)
 
 2. Tutorial
+* [Tutorial](Tutorial.md)
 
 3. Example
 * [Example File](Example_File/Research_Filter.ipynb)
